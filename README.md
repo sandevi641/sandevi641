@@ -54,6 +54,40 @@ learning and knowledge assessment.
 <!-- Replace the link below with your AI Quiz Generator repository URL. -->
 [![View AI Quiz Generator](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/sandevi641)
 
+
+### 🔌 ApiHub — Enterprise API Development & Documentation Platform
+
+Architecting an enterprise-grade developer portal for OpenAPI 3.0/3.1 specification ingestion, interactive API request execution, and automated schema-driven documentation generation.
+
+- 📡 **Interactive API Execution:** Engineered an SSRF-hardened backend proxy runner supporting environment variable interpolation, custom headers, and Bearer Token, API Key, and Basic Authentication.
+- 🔍 **Static Codebase Analysis:** Built an AST-based analyzer to reverse-engineer Express and REST API route signatures, middleware chains, and parameters without executing uploaded code.
+- 🔐 **Authentication & RBAC:** Implemented cryptographically secure JWT authentication, session management, and project-level role-based access control for Owners, Editors, and Viewers.
+- 📊 **Execution Analytics & Monitoring:** Integrated telemetry to analyze HTTP status code distributions, latency percentiles, endpoint health, and historical API execution logs.
+- 🤖 **AI-Assisted Code Generation:** Developed AI-powered endpoint specification and boilerplate code generation for Express, FastAPI, NestJS, and Spring Boot.
+
+**Technologies:** OpenAPI 3.0/3.1, AST Analysis, JWT, RBAC, API Proxying, AI Integration, Express.js, FastAPI, NestJS, Spring Boot
+
+[![View ApiHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/sandevi641/ApiHub)
+
+---
+
+### 🐾 StrayCare — Mobile Stray Animal Rescue & Community Platform
+
+Engineered a mobile platform connecting citizens, animal rescuers, and veterinary clinics to streamline emergency reporting, pet adoption, and lost-and-found animal matching.
+
+- 📍 **Geolocation & Emergency Dispatch:** Integrated Google Maps API and clustering to track incidents by proximity and route automated notifications to nearby volunteer responders.
+- 📹 **Real-Time Communication:** Implemented peer-to-peer audio and video calling using WebRTC signaling, alongside Socket.io instant messaging and Firebase push notifications.
+- 🔐 **Authentication & Role-Based Access Control:** Designed secure multi-tier authentication using Firebase Authentication and JWT, with role-based permissions for public users, field rescuers, and clinic administrators.
+- 🐶 **Animal Rescue & Adoption:** Developed community-focused workflows for reporting stray animal emergencies, coordinating rescue efforts, facilitating adoptions, and matching lost and found animals.
+- ☁️ **Media & Backend Integration:** Utilized Cloudinary for media management and a Node.js/Express.js backend with MongoDB to support application data and communication workflows.
+
+**Technologies:** TypeScript, React Native, Expo, Node.js, Express.js, MongoDB, Socket.io, WebRTC, Firebase, Cloudinary, Google Maps API
+
+[![View TeamTechForge](https://img.shields.io/badge/TeamTechForge_Repository-181717?style=for-the-badge&logo=github)](https://github.com/TeamTechForge)
+
+---
+
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
