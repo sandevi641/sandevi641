@@ -153,6 +153,13 @@ Engineered a mobile platform connecting citizens, animal rescuers, and veterinar
 
 
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandevi641&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandevi641&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+
+
+
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=sandevi641&theme=tokyonight&hide_border=true)
 
 </div>
