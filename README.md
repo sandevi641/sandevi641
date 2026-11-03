@@ -49,8 +49,7 @@ track development progress, and generate AI-powered project insights.
 An application focused on generating quizzes using AI to support
 learning and knowledge assessment.
 
-**Technologies:** Add the actual technologies used in your project.
-
+**Technologies:** React, TypeScript, Vite, Tailwind CSS, Axios, Node.js, Express.js,OpenAI API,PDF text extraction,Zod
 <!-- Replace the link below with your AI Quiz Generator repository URL. -->
 [![View AI Quiz Generator](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/sandevi641)
 
