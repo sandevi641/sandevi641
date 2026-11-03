@@ -147,22 +147,21 @@ Engineered a mobile platform connecting citizens, animal rescuers, and veterinar
 ![Google Maps API](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandevi641&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandevi641&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandevi641&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandevi641&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
-
-
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sandevi641&theme=tokyonight&hide_border=true)
+<img width="70%" src="https://streak-stats.demolab.com?user=sandevi641&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
+
 
 ## 📫 Connect With Me
 
