@@ -152,15 +152,16 @@ Engineered a mobile platform connecting citizens, animal rescuers, and veterinar
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandevi641&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=sandevi641&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandevi641&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sandevi641&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
 <br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=sandevi641&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
+
 
 
 ## 📫 Connect With Me
