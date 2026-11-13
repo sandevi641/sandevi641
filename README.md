@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Sandevi 👋
+# Hi, I'm Sandevi 
 
 ### 💻 Full-Stack Developer | Software Engineering Enthusiast
 
@@ -16,17 +16,17 @@ and building projects that solve real-world problems.
 
 ---
 
-## 🌱 About Me
+##  About Me
 
-- 🔭 Working on full-stack and AI-powered applications.
-- 🌱 Improving my skills in software engineering and system design.
-- 💡 Interested in backend development, databases, and AI integration.
-- 🤝 Open to collaborating on practical software projects.
-- 🎯 Focused on writing clean code and building reliable applications.
+- Working on full-stack and AI-powered applications.
+- Improving my skills in software engineering and system design.
+- Interested in backend development, databases, and AI integration.
+- Open to collaborating on practical software projects.
+- Focused on writing clean code and building reliable applications.
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 💰 SpendWise — Personal Finance Management System
+###  SpendWise — Personal Finance Management System
 
 A full-stack application for managing income, expenses, budgets, and
 financial activities, with plans for analytics and receipt scanning.
@@ -35,7 +35,7 @@ financial activities, with plans for analytics and receipt scanning.
 
 [![View SpendWise](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/sandevi641/SpendWise)
 
-### 📊 DevTrack — AI-Powered Project Management
+### DevTrack — AI-Powered Project Management
 
 A platform designed to combine project management with GitHub analytics,
 track development progress, and generate AI-powered project insights.
@@ -44,7 +44,7 @@ track development progress, and generate AI-powered project insights.
 
 [![View DevTrack](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/sandevi641/DevTrack)
 
-### 🤖 AI Quiz Generator
+###  AI Quiz Generator
 
 An application focused on generating quizzes using AI to support
 learning and knowledge assessment.
@@ -58,11 +58,11 @@ learning and knowledge assessment.
 
 Architecting an enterprise-grade developer portal for OpenAPI 3.0/3.1 specification ingestion, interactive API request execution, and automated schema-driven documentation generation.
 
-- 📡 **Interactive API Execution:** Engineered an SSRF-hardened backend proxy runner supporting environment variable interpolation, custom headers, and Bearer Token, API Key, and Basic Authentication.
-- 🔍 **Static Codebase Analysis:** Built an AST-based analyzer to reverse-engineer Express and REST API route signatures, middleware chains, and parameters without executing uploaded code.
-- 🔐 **Authentication & RBAC:** Implemented cryptographically secure JWT authentication, session management, and project-level role-based access control for Owners, Editors, and Viewers.
-- 📊 **Execution Analytics & Monitoring:** Integrated telemetry to analyze HTTP status code distributions, latency percentiles, endpoint health, and historical API execution logs.
-- 🤖 **AI-Assisted Code Generation:** Developed AI-powered endpoint specification and boilerplate code generation for Express, FastAPI, NestJS, and Spring Boot.
+-  **Interactive API Execution:** Engineered an SSRF-hardened backend proxy runner supporting environment variable interpolation, custom headers, and Bearer Token, API Key, and Basic Authentication.
+-  **Static Codebase Analysis:** Built an AST-based analyzer to reverse-engineer Express and REST API route signatures, middleware chains, and parameters without executing uploaded code.
+-  **Authentication & RBAC:** Implemented cryptographically secure JWT authentication, session management, and project-level role-based access control for Owners, Editors, and Viewers.
+-  **Execution Analytics & Monitoring:** Integrated telemetry to analyze HTTP status code distributions, latency percentiles, endpoint health, and historical API execution logs.
+-  **AI-Assisted Code Generation:** Developed AI-powered endpoint specification and boilerplate code generation for Express, FastAPI, NestJS, and Spring Boot.
 
 **Technologies:** OpenAPI 3.0/3.1, AST Analysis, JWT, RBAC, API Proxying, AI Integration, Express.js, FastAPI, NestJS, Spring Boot
 
@@ -70,15 +70,15 @@ Architecting an enterprise-grade developer portal for OpenAPI 3.0/3.1 specificat
 
 ---
 
-### 🐾 StrayCare — Mobile Stray Animal Rescue & Community Platform
+###  StrayCare — Mobile Stray Animal Rescue & Community Platform
 
 Engineered a mobile platform connecting citizens, animal rescuers, and veterinary clinics to streamline emergency reporting, pet adoption, and lost-and-found animal matching.
 
-- 📍 **Geolocation & Emergency Dispatch:** Integrated Google Maps API and clustering to track incidents by proximity and route automated notifications to nearby volunteer responders.
-- 📹 **Real-Time Communication:** Implemented peer-to-peer audio and video calling using WebRTC signaling, alongside Socket.io instant messaging and Firebase push notifications.
-- 🔐 **Authentication & Role-Based Access Control:** Designed secure multi-tier authentication using Firebase Authentication and JWT, with role-based permissions for public users, field rescuers, and clinic administrators.
-- 🐶 **Animal Rescue & Adoption:** Developed community-focused workflows for reporting stray animal emergencies, coordinating rescue efforts, facilitating adoptions, and matching lost and found animals.
-- ☁️ **Media & Backend Integration:** Utilized Cloudinary for media management and a Node.js/Express.js backend with MongoDB to support application data and communication workflows.
+- **Geolocation & Emergency Dispatch:** Integrated Google Maps API and clustering to track incidents by proximity and route automated notifications to nearby volunteer responders.
+-  **Real-Time Communication:** Implemented peer-to-peer audio and video calling using WebRTC signaling, alongside Socket.io instant messaging and Firebase push notifications.
+-  **Authentication & Role-Based Access Control:** Designed secure multi-tier authentication using Firebase Authentication and JWT, with role-based permissions for public users, field rescuers, and clinic administrators.
+- **Animal Rescue & Adoption:** Developed community-focused workflows for reporting stray animal emergencies, coordinating rescue efforts, facilitating adoptions, and matching lost and found animals.
+-  **Media & Backend Integration:** Utilized Cloudinary for media management and a Node.js/Express.js backend with MongoDB to support application data and communication workflows.
 
 **Technologies:** TypeScript, React Native, Expo, Node.js, Express.js, MongoDB, Socket.io, WebRTC, Firebase, Cloudinary, Google Maps API
 
@@ -88,9 +88,9 @@ Engineered a mobile platform connecting citizens, animal rescuers, and veterinar
 
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+### Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -100,7 +100,7 @@ Engineered a mobile platform connecting citizens, animal rescuers, and veterinar
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🎨 Frontend & Mobile
+###  Frontend & Mobile
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -110,7 +110,7 @@ Engineered a mobile platform connecting citizens, animal rescuers, and veterinar
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-7952B3?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-### ⚙️ Backend & Realtime
+###  Backend & Realtime
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -119,7 +119,7 @@ Engineered a mobile platform connecting citizens, animal rescuers, and veterinar
 ![REST API](https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI_3.0%2F3.1-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
-### 🗄️ Databases & ORM
+###  Databases & ORM
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -127,7 +127,7 @@ Engineered a mobile platform connecting citizens, animal rescuers, and veterinar
 ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase_Realtime%2FFirestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🚀 DevOps & Testing
+###  DevOps & Testing
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -138,7 +138,7 @@ Engineered a mobile platform connecting citizens, animal rescuers, and veterinar
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD_Fundamentals-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🔐 Security & Services
+###  Security & Services
 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![RBAC](https://img.shields.io/badge/Role--Based_Access_Control-6A1B9A?style=for-the-badge)
@@ -148,7 +148,7 @@ Engineered a mobile platform connecting citizens, animal rescuers, and veterinar
 
 
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -164,7 +164,7 @@ Engineered a mobile platform connecting citizens, animal rescuers, and veterinar
 
 
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - 💼 LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/in/sandevi-de-silva-873376269/)
 - 📧 Email: san20020803@gmail.com
@@ -173,6 +173,6 @@ Engineered a mobile platform connecting citizens, animal rescuers, and veterinar
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
 
 </div>
